@@ -1,0 +1,8 @@
+{
+  "name": "Vision Buddy",
+  "description": "A friendly AI companion for visually impaired navigation, using Gemini for spatial reasoning and Snowflake for spatial memory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
